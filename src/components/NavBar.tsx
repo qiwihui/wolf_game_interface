@@ -28,7 +28,7 @@ export function NavBar() {
             <Link href="/whitepapers" target="_blank">Whitepapers</Link>
           </li>
           <li className="font-sans text-lg">
-            <Link href="https://test.wolfgameaptos.xyz" target="_blank">Testnet</Link>
+            <Link href="https://wolfgameaptos.xyz" target="_blank">Mainnet</Link>
           </li>
         </ul>
       </div>
