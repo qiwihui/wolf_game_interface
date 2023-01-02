@@ -30,6 +30,9 @@ export function NavBar() {
           <li className="font-sans text-lg">
             <Link href="https://wolfgameaptos.xyz" target="_blank">Mainnet</Link>
           </li>
+          <li className="font-sans text-lg">
+            <Link href="https://github.com/AptosWolfGame" target="_blank">Source Code</Link>
+          </li>
         </ul>
       </div>
       <AptosConnect />
