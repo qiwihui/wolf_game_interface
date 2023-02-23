@@ -198,7 +198,7 @@ export default function Home() {
   function mint(stake: boolean) {
     return {
       type: "entry_function_payload",
-      function: DAPP_ADDRESS + "::woolf::mint",
+      function: DAPP_ADDRESS + "::woolf::mint_v2",
       type_arguments: [],
       arguments: [
         mintAmount,
